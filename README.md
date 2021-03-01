@@ -1,6 +1,6 @@
 # Leetcode-2021
 ## 2021-March Challenge
-### March 1
+### March 1 - Easy
 Alice has n candies, where the ith candy is of type candyType[i]. 
 Alice noticed that she started to gain weight, so she visited a doctor.
 The doctor advised Alice to only eat n / 2 of the candies she has (n is always even). 
