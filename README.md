@@ -31,3 +31,10 @@ Write a program to find the node at which the intersection of two singly linked 
 
 - Runtime: 76.92
 - Memory: 88.00
+
+### March 5 - Easy - Average of Levels in Binary Tree
+Given a non-empty binary tree, return the average value of the nodes on each level in the form of an array.
+Solution: BFS
+
+- Runtime: 97.89
+- Memory: 36.25
