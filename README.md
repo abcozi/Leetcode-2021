@@ -49,3 +49,4 @@ Given an array of words, return the length of the shortest reference string s po
 - Runtime: 92.44
 - Memory: 51.74
 
+### March 7 - Easy - Design HashMap
